@@ -1,0 +1,3 @@
+token = "5899985388:AAGJ-LYFFDQtOv-tmHypl1D-ORouDNJJJk0"
+myChatId = 940100927
+groupChatId = -674164740
